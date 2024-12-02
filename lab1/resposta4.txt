@@ -1,0 +1,5 @@
+Javascript permite com que as páginas web se tornem cada vez mais interativas e permitiu coisas a implementação de
+novas funcionalidades que melhoraram a experiências dos usuários como atualizações dinâmicas e validação de 
+formulários. Essa linguagem tornou-se essencial para o desenvolvimento de sites interativos pois, sendo implementada
+juntamente ao html, permite com que funções sejam dinamicas sejam inseridas às páginas web, como também realizando a 
+construção de html dinamicamente em meio a seu cõdigo.
