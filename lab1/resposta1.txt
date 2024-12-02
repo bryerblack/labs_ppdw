@@ -1,0 +1,10 @@
+A world wide web foi criada inicialmente como uma forma de conectar cientistas para facilitar o compartilhamento de informações.
+Antes desse contexto, haviam esforços militares para uma rede de rápida comunicação e resiliência no contexto da guerra fria,
+logo mias, as tecnologias desenvolvidas nesse contextos, tornando-se acessieveis a outro grupos fora do escopo militar possibilitou
+o desenvolvimento do que levaria a internete moderna, inicialmente como essa rede de compartilhamento de texto por meio de hiperlinks
+feita para o uso de pesquisadores. Com o surgimento do HTML poucos anos depois (na dẽcada de 90), o sistema previamente construido
+pôde crescer mais organizada, pavimentando seu futuro em tornar-se uma ferramenta cada vez mais abrangente, não apenas para o uso
+por pesquisadores. A invenção da world wide web e do HTML possibilitou uma revolução na comunicação, previamente baseada em sistemas
+de telefonia, além de permitir o compartilhamento de dados mais complexos, escritos em documentos, sem necessitar de correspondências
+por correios. Esta nova forma de comunicação permitiria um avanço cada vez mais rápido da ciência, como também uma conexão mundial
+entre diversas pessoas, mais barata e rápida que qualquer outra.
