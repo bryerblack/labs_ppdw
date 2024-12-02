@@ -1,0 +1,14 @@
+1. Protocolo HTTP: essencial para a comunicação via web, o protocolo HTTP regula a comunicação entre clientes
+e servidores, enviando requisições à páginas web e devolvendo suas respostas através de arquivos;
+
+2. Navegador: o desenvolvimento dos navegadores foi essencial para o desenvolvimento web, trata-se de uma
+ferramenta capaz de traduzir as requisições e arquivos de respostas de maneira visual e colaborativa, com o
+tempo os navegadores se tornaram cada vez mais completos, com mais ferramentas para desenvolvimento, como
+também com mais recursos de personalização para o usuário, permitindo um uso mais amplo da web. São essenciais
+para o desenvolvimento web, pois, além de serem onde as páginas serão disponibilizadas, pode também auxiliar
+o desenvolvedor a validar sua aplicação;
+
+3. Javascript: apesar de causar muita dor de cabeça a muitos desenvolvedores, o surgimento da linguagem de
+programação javascript foi essencial para o crescimento da web e o desenvolvimento de aplicações web cada vez
+mais complexas. Por meio do javascript as páginas web tornaram-se cada vez mais interativas e permitiu coisas
+como atualizações dinâmicas e validação de formulários;
