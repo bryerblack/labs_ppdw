@@ -1,0 +1,8 @@
+Para o desenvolvimento mais tranquilo de uma aplicação web, primeiramente seria necessário definir qual o 
+propósito da aplicação a ser desenvolvida, para que assim possa-se definir as ferramentas necessárias para
+a construção desta aplicação. Antes de iniciar o desenvolvimento propriamente dito, seria necessário também
+entrar em acordo as práticas de versionamento, é interessante fazer o uso de alum padrão de commit para 
+melhor organizar a construção colaborativa do código. Tendo agora ideia do que será feito e como o
+desenvolvimento será organizado, voltaremos ao passo inicial para agora definir os requisitos necessários e
+fundamentais da aplicação. Reconhecendo o que necessita ser feito, pode-se separar as tasks entre a dupla e
+iniciar o desenvolvimento do código propriamente dito.
