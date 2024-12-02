@@ -1,0 +1,9 @@
+O versionamento de código é essencial para o desenvolvimento de código construido de maneira colaborativa.
+Trata-se de um processo de gerenciamento onde versões diferentes de algo desenvolvido são construidos
+separadamente e registrados em uma hierarquia de versões para serem analisadas e mescladas em um produto
+final conciso.
+Sem ele, a organização de um código construido em equipe pode tronar-se um caos, com multiplas versões do
+mesmo código jogada uma em cima da outra, aumentando os riscos a erros e perda de implementações.
+Até mesmo para um desenvolvedor que trabalha sozinho o versonamento é importante, pois também permite que
+este possa rastrear as versões de seu cõdigo, restaurá-lo para versões funcionáis em caso de erros, e
+permite uma facilidade maior e mais dinamica do desenvolvimento.
